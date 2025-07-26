@@ -5,6 +5,7 @@
 Abre una terminal y navega a la carpeta donde quieres trabajar. Luego crea y accede a la carpeta principal del proyecto:
 
 ```bash
+cd prueba_joonik
 mkdir proyectos
 cd proyectos
 ```
@@ -22,6 +23,7 @@ git clone https://github.com/stevCount/frontend-joonik.git
 
 Copia el contenido de la carpeta `configuracion_prueba` dentro de la carpeta `proyectos`.  
 Asegúrate de sobrescribir si se te solicita.
+
 
 ## 4. Seguir instrucciones de cada proyecto
 
